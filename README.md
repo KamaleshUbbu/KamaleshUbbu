@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kamalesh Ubbu👋
 
-<!--
-**KamaleshUbbu/KamaleshUbbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer | Azure Data Engineer | SQL Server | Power BI | Databricks
 
-Here are some ideas to get you started:
+Senior Data Engineer with 9+ years of experience designing enterprise data platforms using SQL Server, Azure Data Factory, Databricks, Power BI, Microsoft Fabric and Azure SQL. Expert in ETL/ELT, data warehousing, dimensional modeling, PySpark, DAX, performance tuning and cloud migration. Delivered scalable analytics solutions for financial services clients by automating pipelines, optimizing databases and developing executive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Tech Stack
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge&logo=microsoftsqlserver) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure) ![Power BI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=powerbi) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-blue?style=for-the-badge) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-blue?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-blue?style=for-the-badge&logo=databricks) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  
+
+
+## ⭐ Featured Projects
+
+### SQL Server Migration
+
+Enterprise migration from SQL Server 2016 to SQL Server 2025 including
+
+- Dynamics CRM
+- SSRS
+- Database Validation
+- Performance Testing
+- Go-Live Strategy
+
+➡ View Project
+
+🏅 Microsoft Azure
+
+🏅 Power BI
+
+🏅 SQL Server
+
+🏅 Microsoft Fabric
+
+⭐ Thanks for visiting my profile!
