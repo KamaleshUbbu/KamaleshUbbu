@@ -7,7 +7,7 @@ Senior Data Engineer with 9+ years of experience designing enterprise data platf
 
 ### 💻 Tech Stack
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge&logo=microsoftsqlserver) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure) ![Power BI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=powerbi) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-blue?style=for-the-badge) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-blue?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-blue?style=for-the-badge&logo=databricks) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge&logo=microsoftsqlserver) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure) ![Power BI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=powerbi) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-blue?style=for-the-badge) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-blue?style=for-the-badge) ![Databricks](https://img.shields.io/badge/Databricks-blue?style=for-the-badge&logo=databricks) 
 
 
 ## ⭐ Featured Projects
