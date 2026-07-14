@@ -33,14 +33,5 @@ Enterprise Powerbi Investment Portfolio Dashboard
 - Power Bi Online
 
 
-➡ View Project
 
-🏅 Microsoft Azure
 
-🏅 Power BI
-
-🏅 SQL Server
-
-🏅 Microsoft Fabric
-
-⭐ Thanks for visiting my profile!
