@@ -1,8 +1,8 @@
-# Hi, I'm Kamalesh Ubbu👋
+# Kamalesh Ubbu👋
 
-Senior Data Engineer | Azure Data Engineer | SQL Server | Power BI | Databricks
+Senior Database Developer| Azure Data Engineer | SQL Server | Power BI 
 
-Senior Data Engineer with 9+ years of experience designing enterprise data platforms using SQL Server, Azure Data Factory, Databricks, Power BI, Microsoft Fabric and Azure SQL. Expert in ETL/ELT, data warehousing, dimensional modeling, PySpark, DAX, performance tuning and cloud migration. Delivered scalable analytics solutions for financial services clients by automating pipelines, optimizing databases and developing executive dashboards.
+Senior Data Engineer with 9+ years of experience designing enterprise data platforms using SQL Server, Azure Data Factory, Databricks, Power BI, Microsoft Fabric and Azure SQL. Expert in ETL/ELT, data warehousing, dimensional modeling, DAX, performance tuning and cloud migration. Delivered scalable analytics solutions for financial services clients by automating pipelines, optimizing databases and developing executive dashboards.
 
 
 ### 💻 Tech Stack
@@ -21,6 +21,17 @@ Enterprise migration from SQL Server 2016 to SQL Server 2025 including
 - Database Validation
 - Performance Testing
 - Go-Live Strategy
+
+### Enterprise Power BI 
+
+Enterprise Powerbi Investment Portfolio Dashboard
+
+- Dax Measures
+- Dashboard
+- RLS
+- Power M Query
+- Power Bi Online
+
 
 ➡ View Project
 
